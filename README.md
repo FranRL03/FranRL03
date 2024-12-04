@@ -7,7 +7,7 @@ Salesianos de San Pedro (Sevilla).
 
 Durante estos dos años
 he estado trabajando con Java en Spring Boot 3, desarrollando API REST con una base de datos
-relacional en PostgreSQL. utilizando Hibernate para realizar el mapeo objeto-relacional
+relacional en PostgreSQL, utilizando Hibernate para realizar el mapeo objeto-relacional
 (ORM) en la base de datos e implementando medidas de seguridad mediante JWT (JSON Web
 Token) para garantizar la protección de los datos en las aplicaciones.🚀
 
