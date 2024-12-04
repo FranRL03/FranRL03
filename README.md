@@ -22,7 +22,7 @@ mantenibles.
 
 ## 💻 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,css,html,docker,dart,bootstrap,flutter,git,idea,java,py,js,ts,postgres,postman,pycharm,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,css,html,docker,dart,bootstrap,flutter,git,idea,java,py,js,ts,postgres,postman,pycharm,vscode,figma,linux&perline=8)](https://skillicons.dev)
 
 ## 📌 Repositorios destacados:
 
