@@ -11,7 +11,7 @@ relacional en PostgreSQL. utilizando Hibernate para realizar el mapeo objeto-rel
 (ORM) en la base de datos e implementando medidas de seguridad mediante JWT (JSON Web
 Token) para garantizar la protección de los datos en las aplicaciones.🚀
 
-Al conectar el backcon con el frontend utilizando Angular me ha permitido desarrollar aplicaciones web completas, optimizando la comunicación entre ambos
+Al conectar el back con el frontend utilizando Angular me ha permitido desarrollar aplicaciones web completas, optimizando la comunicación entre ambos
 entornos y mejorando la experiencia del usuario.🚀 Esta experiencia me ha dado una visión integral
 del desarrollo de software y me ha enseñado la importancia de crear soluciones escalables y
 mantenibles.
