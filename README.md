@@ -24,13 +24,13 @@ mantenibles.
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,css,html,docker,dart,bootstrap,flutter,git,idea,java,py,js,ts,postgres,postman,pycharm,vscode,figma,linux&perline=8)](https://skillicons.dev)
 
-## 📌 Repositorios destacados:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranRL03&repo=VacunApi&theme=tokyonight&show_owner=true)](https://github.com/FranRL03/VacunApi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranRL03&repo=TheMovieDB&theme=tokyonight&show_owner=true)](https://github.com/FranRL03/TheMovieDB)
-
 ## 📊 Estadísticas:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranRL03&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranRL03&layout=compact&theme=tokyonight)
+
+## 📌 Repositorios destacados:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranRL03&repo=VacunApi&theme=tokyonight&show_owner=true)](https://github.com/FranRL03/VacunApi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranRL03&repo=TheMovieDB&theme=tokyonight&show_owner=true)](https://github.com/FranRL03/TheMovieDB)
 
